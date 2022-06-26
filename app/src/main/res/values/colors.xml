@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#FFA500</color>
+    <color name="darkPrimary">#FF4081</color>
+    <color name="lightPrimary">#F0F4C3</color>
+    <color name="primaryColor">#FF4081</color>
+    <color name="accentColor">#FF4081</color>
+    <color name="textPrimaryColor">#212121</color>
+    <color name="iconColor">#F0F4C3</color>
+    <color name="iconColorText">#212121</color>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#F7B162</color>
+    <color name="themeColor">#F7B162</color>
+    <color name="dividerColor">#BDBDBD</color>
+    <color name="lightPrimaryColor">#CFD8DC</color>
+    <color name="whiteSmoke">#F5F5F5</color>
+    <color name="FragmentBody">#CDDC39</color>
+    <color name="secondaryColor">#757575</color>
+    <color name="red">#FF0000</color>
+
+
+    <!--normal colors-->
+    <color name="darkTextColor">#020000</color>
+
+
+    <!--colors for light mode-->
+    <color name="contentTextColor">#020000</color>
+    <color name="register_bk_color">#F7B162</color>
+    <color name="login_bk_color">#fff</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="primaryTextColor">#F7B162</color>
+
+    <color name="green">#30AF34</color>
+    <color name="buttonOff">#c0c0c0</color>
+
+    <color name="teal_2001">#FF03DAC5</color>
+    <color name="paleBlack">#32364b</color>
+    <!--colors for light mode-->
+    <color name="paleWhite1">#1EB5B5D3</color>
+    <color name="paleWhite4">#D2090808</color>
+    <color name="paleWhite2">#bec4e3</color>
+    <color name="paleWhite3">#6A6C77</color>
+    <color name="paleWhite">#1f4749</color>
+    <color name="lightBlack">#1c2037</color>
+    <color name="lightBLue">#00c4cc</color>
+    <color name="blueValue">#5e6dba</color>
+    <color name="Green1">#00FF00</color>
+    <color name="yellow">#F57C00</color>
+    <color name="lightWhite">#00DEE1F1</color>
+    <color name="whiteBodyColor">#FCFCFC</color>
+
+    <!--colors for light mode-->
+    <color name="contentBodyColor">#FCFCFC</color>
+    <color name="gray">#2d2d2d</color>
+
+</resources>
